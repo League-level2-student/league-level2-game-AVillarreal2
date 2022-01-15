@@ -1,7 +1,6 @@
 package Game;
 
 import javax.swing.*;
-import java.awt.*;
 
 public class Doom {
     JFrame frame;

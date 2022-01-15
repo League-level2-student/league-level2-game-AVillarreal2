@@ -1,14 +1,8 @@
 package Game;
 
-import org.w3c.dom.css.CSSPrimitiveValue;
-import org.w3c.dom.css.Rect;
-
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
-
-import static Game.Doom.doomFrameHEIGHT;
-import static Game.Doom.doomFrameWIDTH;
 
 public class DoomGamePanel extends JPanel
         implements ActionListener, KeyListener {
